@@ -1,0 +1,13 @@
+Project: Arithmetic Calculator
+
+No. of sprints: 1
+
+Description: User is asked to choose an arithmetic operation to perform between two numbers and the output is displayed.
+
+Input : 
+a) An operation i.e.( Type 1 for Addtion, Type 2 for Subtraction, Type 3 for Multiplication, Type 4 for Division)
+b) Number 1
+c) Number 2
+
+Output:
+Sum/Difference/Product/Division 
